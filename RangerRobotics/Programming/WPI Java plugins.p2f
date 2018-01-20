@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='2'>
+    <iu id='edu.wpi.first.wpilib.plugins.cpp.feature.feature.group' name='Robot C++ Development' version='2018.1.1'>
+      <repositories size='1'>
+        <repository location='http://first.wpi.edu/FRC/roborio/release/eclipse/'/>
+      </repositories>
+    </iu>
+    <iu id='edu.wpi.first.wpilib.plugins.java.feature.feature.group' name='Robot Java Development' version='2018.1.1'>
+      <repositories size='1'>
+        <repository location='http://first.wpi.edu/FRC/roborio/release/eclipse/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
